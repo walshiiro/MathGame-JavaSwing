@@ -48,6 +48,6 @@ For questions or suggestions, feel free to contact:
 
 - **Name**: Tri Xuan Mai
 - **Email**: trimai1425@gmail.com
-- **GitHub**: [your-username](https://github.com/walshiiro)
+- **GitHub**: [walshiiro](https://github.com/walshiiro)
 
 ---

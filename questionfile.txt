@@ -1,0 +1,435 @@
+Level 1, 1 + 1, 2
+Level 1, 2 - 1, 1
+Level 1, 3 * 1, 3
+Level 1, 6 / 2, 3
+Level 1, 4 + 3, 7
+Level 1, 5 - 2, 3
+Level 1, 7 * 1, 7
+Level 1, 8 / 2, 4
+Level 1, 9 + 1, 10
+Level 1, 6 - 3, 3
+Level 1, 2 * 4, 8
+Level 1, 10 / 2, 5
+Level 1, 3 + 2, 5
+Level 1, 4 - 1, 3
+Level 1, 5 * 2, 10
+Level 1, 8 / 4, 2
+Level 1, 2 + 7, 9
+Level 1, 9 - 4, 5
+Level 1, 1 * 9, 9
+Level 1, 6 / 3, 2
+Level 1, 5 + 5, 10
+Level 1, 7 - 2, 5
+Level 1, 6 * 1, 6
+Level 1, 10 / 5, 2
+Level 1, 3 + 6, 9
+Level 1, 9 - 5, 4
+Level 1, 4 * 2, 8
+Level 1, 8 / 4, 2
+Level 1, 2 + 3, 5
+Level 1, 6 - 4, 2
+Level 1, 5 * 2, 10
+Level 1, 8 / 2, 4
+Level 1, 1 + 2, 3
+Level 1, 3 - 1, 2
+Level 1, 2 * 3, 6
+Level 1, 9 / 3, 3
+Level 1, 7 + 1, 8
+Level 1, 6 - 2, 4
+Level 1, 8 * 1, 8
+Level 1, 10 / 5, 2
+Level 1, 1 + 4, 5
+Level 1, 2 - 1, 1
+Level 1, 3 * 3, 9
+Level 1, 8 / 4, 2
+Level 1, 7 + 3, 10
+Level 1, 9 - 5, 4
+Level 1, 1 * 5, 5
+Level 1, 6 / 3, 2
+Level 1, 5 + 2, 7
+Level 1, 7 - 1, 6
+Level 1, 2 * 5, 10
+Level 1, 9 / 3, 3
+Level 1, 1 + 5, 6
+Level 1, 2 - 2, 0
+Level 1, 3 * 4, 12
+Level 1, 8 / 2, 4
+Level 1, 6 + 3, 9
+Level 1, 10 - 3, 7
+Level 1, 2 * 6, 12
+Level 1, 9 / 3, 3
+Level 1, 5 + 3, 8
+Level 1, 7 - 5, 2
+Level 1, 2 * 7, 14
+Level 1, 10 / 5, 2
+Level 1, 4 + 3, 7
+Level 1, 9 - 1, 8
+Level 1, 1 * 3, 3
+Level 1, 6 / 2, 3
+Level 1, 5 + 4, 9
+Level 1, 7 - 3, 4
+Level 1, 3 * 3, 9
+Level 1, 8 / 4, 2
+Level 1, 2 + 5, 7
+Level 1, 6 - 1, 5
+Level 1, 1 * 8, 8
+Level 1, 9 / 3, 3
+Level 1, 7 + 2, 9
+Level 1, 6 - 5, 1
+Level 1, 2 * 4, 8
+Level 1, 10 / 2, 5
+Level 1, 3 + 3, 6
+Level 1, 9 - 2, 7
+Level 1, 1 * 6, 6
+Level 1, 8 / 2, 4
+Level 1, 5 + 4, 9
+Level 1, 7 - 1, 6
+Level 1, 2 * 2, 4
+Level 1, 10 / 2, 5
+Level 1, 3 + 4, 7
+Level 1, 9 - 1, 8
+Level 1, 1 * 9, 9
+Level 1, 6 / 2, 3
+Level 1, 4 + 2, 6
+Level 1, 8 - 3, 5
+Level 1, 2 * 3, 6
+Level 1, 9 / 3, 3
+Level 2, 1 + 12, 13
+Level 2, 2 - 15, -13
+Level 2, 3 * 14, 42
+Level 2, 20 / 4, 5
+Level 2, 11 + 5, 16
+Level 2, 18 - 9, 9
+Level 2, 7 * 6, 42
+Level 2, 30 / 3, 10
+Level 2, 12 + 3, 15
+Level 2, 19 - 4, 15
+Level 2, 8 * 9, 72
+Level 2, 36 / 6, 6
+Level 2, 15 + 4, 19
+Level 2, 22 - 8, 14
+Level 2, 5 * 15, 75
+Level 2, 45 / 5, 9
+Level 2, 10 + 17, 27
+Level 2, 30 - 12, 18
+Level 2, 3 * 18, 54
+Level 2, 42 / 7, 6
+Level 2, 16 + 7, 23
+Level 2, 24 - 8, 16
+Level 2, 6 * 14, 84
+Level 2, 56 / 8, 7
+Level 2, 13 + 9, 22
+Level 2, 27 - 6, 21
+Level 2, 4 * 11, 44
+Level 2, 88 / 8, 11
+Level 2, 9 + 10, 19
+Level 2, 20 - 5, 15
+Level 2, 2 * 17, 34
+Level 2, 34 / 2, 17
+Level 2, 14 + 11, 25
+Level 2, 31 - 6, 25
+Level 2, 8 * 5, 40
+Level 2, 50 / 10, 5
+Level 2, 17 + 8, 25
+Level 2, 24 - 12, 12
+Level 2, 3 * 13, 39
+Level 2, 39 / 13, 3
+Level 2, 9 + 14, 23
+Level 2, 16 - 7, 9
+Level 2, 5 * 12, 60
+Level 2, 72 / 9, 8
+Level 2, 11 + 8, 19
+Level 2, 20 - 3, 17
+Level 2, 6 * 18, 108
+Level 2, 54 / 6, 9
+Level 2, 12 + 17, 29
+Level 2, 25 - 9, 16
+Level 2, 7 * 3, 21
+Level 2, 63 / 9, 7
+Level 2, 8 + 18, 26
+Level 2, 16 - 3, 13
+Level 2, 9 * 7, 63
+Level 2, 49 / 7, 7
+Level 2, 5 + 22, 27
+Level 2, 30 - 15, 15
+Level 2, 4 * 10, 40
+Level 2, 80 / 8, 10
+Level 2, 13 + 6, 19
+Level 2, 21 - 12, 9
+Level 2, 3 * 14, 42
+Level 2, 56 / 7, 8
+Level 2, 19 + 2, 21
+Level 2, 25 - 10, 15
+Level 2, 6 * 11, 66
+Level 2, 66 / 11, 6
+Level 2, 10 + 19, 29
+Level 2, 28 - 3, 25
+Level 2, 7 * 13, 91
+Level 2, 91 / 7, 13
+Level 2, 15 + 9, 24
+Level 2, 35 - 12, 23
+Level 2, 8 * 4, 32
+Level 2, 32 / 8, 4
+Level 2, 6 + 14, 20
+Level 2, 22 - 10, 12
+Level 2, 3 * 9, 27
+Level 2, 81 / 9, 9
+Level 2, 18 + 7, 25
+Level 2, 14 - 5, 9
+Level 2, 10 * 3, 30
+Level 2, 30 / 5, 6
+Level 2, 13 + 5, 18
+Level 2, 25 - 5, 20
+Level 2, 9 * 3, 27
+Level 2, 27 / 3, 9
+Level 2, 12 + 10, 22
+Level 2, 30 - 11, 19
+Level 2, 4 * 12, 48
+Level 2, 48 / 12, 4
+Level 2, 11 + 15, 26
+Level 2, 40 - 6, 34
+Level 2, 7 * 8, 56
+Level 2, 56 / 7, 8
+Level 2, 16 + 13, 29
+Level 2, 30 - 8, 22
+Level 2, 5 * 10, 50
+Level 2, 50 / 5, 10
+Level 2, 12 + 9, 21
+Level 2, 21 - 3, 18
+Level 2, 6 * 6, 36
+Level 2, 36 / 6, 6
+Level 2, 10 + 12, 22
+Level 2, 20 - 8, 12
+Level 2, 5 * 14, 70
+Level 2, 70 / 7, 10
+Level 2, 8 + 7, 15
+Level 2, 25 - 13, 12
+Level 2, 6 * 9, 54
+Level 2, 54 / 9, 6
+Level 2, 13 + 14, 27
+Level 2, 28 - 4, 24
+Level 2, 4 * 9, 36
+Level 2, 36 / 4, 9
+Level 2, 15 + 8, 23
+Level 2, 22 - 5, 17
+Level 2, 3 * 16, 48
+Level 2, 48 / 3, 16
+Level 2, 12 + 15, 27
+Level 2, 30 - 14, 16
+Level 2, 8 * 7, 56
+Level 2, 56 / 8, 7
+Level 2, 10 + 9, 19
+Level 2, 28 - 10, 18
+Level 2, 7 * 5, 35
+Level 2, 35 / 5, 7
+Level 2, 11 + 16, 27
+Level 2, 25 - 4, 21
+Level 2, 6 * 13, 78
+Level 2, 78 / 13, 6
+Level 2, 9 + 17, 26
+Level 2, 26 - 12, 14
+Level 2, 4 * 8, 32
+Level 2, 32 / 4, 8
+Level 3, 12 + 23, 35
+Level 3, 45 - 13, 32
+Level 3, 6 * 7, 42
+Level 3, 54 / 9, 6
+Level 3, 34 + 23, 57
+Level 3, 45 - 30, 15
+Level 3, 19 * 3, 57
+Level 3, 72 / 8, 9
+Level 3, 25 + 30, 55
+Level 3, 40 - 20, 20
+Level 3, 5 * 12, 60
+Level 3, 60 / 5, 12
+Level 3, 14 + 35, 49
+Level 3, 78 - 14, 64
+Level 3, 23 * 3, 69
+Level 3, 72 / 6, 12
+Level 3, 18 + 34, 52
+Level 3, 63 - 28, 35
+Level 3, 11 * 9, 99
+Level 3, 56 / 7, 8
+Level 3, 32 + 41, 73
+Level 3, 50 - 33, 17
+Level 3, 17 * 5, 85
+Level 3, 72 / 9, 8
+Level 3, 22 + 15, 37
+Level 3, 38 - 27, 11
+Level 3, 21 * 6, 126
+Level 3, 72 / 8, 9
+Level 3, 19 + 26, 45
+Level 3, 48 - 29, 19
+Level 3, 17 * 4, 68
+Level 3, 96 / 8, 12
+Level 3, 25 + 36, 61
+Level 3, 70 - 25, 45
+Level 3, 12 * 8, 96
+Level 3, 90 / 9, 10
+Level 3, 22 + 31, 53
+Level 3, 54 - 17, 37
+Level 3, 18 * 5, 90
+Level 3, 84 / 12, 7
+Level 3, 29 + 43, 72
+Level 3, 61 - 28, 33
+Level 3, 12 * 9, 108
+Level 3, 72 / 6, 12
+Level 3, 34 + 22, 56
+Level 3, 55 - 20, 35
+Level 3, 7 * 15, 105
+Level 3, 120 / 6, 20
+Level 3, 18 + 55, 73
+Level 3, 50 - 21, 29
+Level 3, 19 * 4, 76
+Level 3, 84 / 7, 12
+Level 3, 26 + 19, 45
+Level 3, 47 - 12, 35
+Level 3, 14 * 11, 154
+Level 3, 132 / 11, 12
+Level 3, 39 + 21, 60
+Level 3, 65 - 22, 43
+Level 3, 9 * 13, 117
+Level 3, 130 / 10, 13
+Level 3, 17 + 29, 46
+Level 3, 55 - 37, 18
+Level 3, 21 * 6, 126
+Level 3, 84 / 7, 12
+Level 3, 11 + 44, 55
+Level 3, 72 - 31, 41
+Level 3, 16 * 8, 128
+Level 3, 96 / 12, 8
+Level 3, 33 + 22, 55
+Level 3, 50 - 17, 33
+Level 3, 14 * 7, 98
+Level 3, 91 / 13, 7
+Level 3, 25 + 50, 75
+Level 3, 80 - 45, 35
+Level 3, 12 * 8, 96
+Level 3, 96 / 8, 12
+Level 3, 39 + 19, 58
+Level 3, 60 - 12, 48
+Level 3, 16 * 9, 144
+Level 3, 72 / 9, 8
+Level 3, 28 + 43, 71
+Level 3, 77 - 21, 56
+Level 3, 6 * 17, 102
+Level 3, 102 / 6, 17
+Level 3, 12 + 22, 34
+Level 3, 45 - 23, 22
+Level 3, 11 * 10, 110
+Level 3, 110 / 10, 11
+Level 3, 18 + 28, 46
+Level 3, 37 - 18, 19
+Level 3, 16 * 7, 112
+Level 3, 84 / 7, 12
+Level 3, 42 + 35, 77
+Level 3, 60 - 22, 38
+Level 3, 21 * 5, 105
+Level 3, 70 / 7, 10
+Level 3, 17 + 33, 50
+Level 3, 45 - 18, 27
+Level 3, 14 * 8, 112
+Level 3, 112 / 8, 14
+Level 3, 31 + 42, 73
+Level 3, 75 - 31, 44
+Level 3, 18 * 4, 72
+Level 3, 72 / 9, 8
+Level 3, 32 + 45, 77
+Level 3, 54 - 28, 26
+Level 3, 25 * 3, 75
+Level 3, 75 / 5, 15
+Level 4, 1 + 2 - 3, 0
+Level 4, 3 * 2 + 4, 10
+Level 4, 18 / 3 - 2, 4
+Level 4, 5 + 7 * 2, 19
+Level 4, 8 / 2 + 3, 7
+Level 4, 12 + 8 - 5, 15
+Level 4, 6 * 3 - 9, 9
+Level 4, 24 / 4 + 6, 12
+Level 4, 7 * 5 - 10, 25
+Level 4, 9 + 6 / 3, 11
+Level 4, 15 - 5 * 2, 5
+Level 4, 8 / 2 + 12, 16
+Level 4, 2 + 4 - 1, 5
+Level 4, 3 * 3 + 9, 18
+Level 4, 36 / 6 - 5, 1
+Level 4, 14 + 8 - 6, 16
+Level 4, 5 * 6 + 2, 32
+Level 4, 20 / 4 + 10, 15
+Level 4, 9 - 3 * 2, 3
+Level 4, 4 + 12 / 3, 8
+Level 4, 10 + 15 - 5, 20
+Level 4, 8 * 2 - 10, 6
+Level 4, 45 / 5 + 7, 16
+Level 4, 6 + 4 * 3, 18
+Level 4, 18 - 9 + 4, 13
+Level 4, 3 * 7 - 2, 19
+Level 4, 30 / 6 + 9, 14
+Level 4, 12 + 18 - 6, 24
+Level 4, 7 * 4 - 8, 20
+Level 4, 48 / 6 + 2, 10
+Level 4, 5 + 6 - 3, 8
+Level 4, 9 * 2 + 4, 22
+Level 4, 36 / 9 - 3, 1
+Level 4, 14 + 7 - 10, 11
+Level 4, 8 * 3 + 6, 30
+Level 4, 24 / 4 - 2, 4
+Level 4, 15 - 6 + 12, 21
+Level 4, 7 * 5 - 8, 27
+Level 4, 42 / 6 + 4, 11
+Level 4, 6 + 3 * 2, 12
+Level 4, 18 - 5 + 4, 17
+Level 4, 3 * 9 - 7, 20
+Level 4, 54 / 6 + 5, 14
+Level 4, 20 + 18 - 6, 32
+Level 4, 5 * 8 - 10, 30
+Level 4, 45 / 9 + 6, 11
+Level 4, 9 + 7 - 3, 13
+Level 4, 6 * 4 + 3, 27
+Level 4, 36 / 12 + 4, 7
+Level 4, 15 + 5 - 10, 10
+Level 4, 9 * 5 + 2, 47
+Level 4, 48 / 8 - 5, 1
+Level 4, 14 + 6 - 8, 12
+Level 4, 7 * 6 + 5, 47
+Level 4, 30 / 5 + 7, 13
+Level 4, 8 + 4 * 2, 16
+Level 4, 18 - 7 + 3, 14
+Level 4, 3 * 8 - 9, 15
+Level 4, 60 / 10 + 4, 10
+Level 4, 20 + 25 - 8, 37
+Level 4, 6 * 5 + 7, 37
+Level 4, 36 / 6 - 2, 4
+Level 4, 10 - 6 + 15, 19
+Level 4, 9 * 2 + 3, 21
+Level 4, 54 / 9 + 8, 14
+Level 4, 12 + 18 - 9, 21
+Level 4, 7 * 8 - 12, 44
+Level 4, 42 / 7 + 5, 11
+Level 4, 5 + 8 - 3, 10
+Level 4, 9 * 6 + 4, 58
+Level 4, 36 / 4 - 6, 3
+Level 4, 15 + 9 - 7, 17
+Level 4, 8 * 5 - 10, 30
+Level 4, 24 / 8 + 3, 6
+Level 4, 9 + 10 - 3, 16
+Level 4, 3 * 7 + 4, 25
+Level 4, 48 / 6 - 7, 1
+Level 4, 10 + 12 - 5, 17
+Level 4, 6 * 4 + 8, 32
+Level 4, 36 / 6 + 2, 8
+Level 4, 20 - 5 + 15, 30
+Level 4, 9 * 5 - 20, 25
+Level 4, 45 / 9 + 6, 11
+Level 4, 12 + 15 - 9, 18
+Level 4, 7 * 5 - 6, 29
+Level 4, 24 / 8 + 4, 7
+Level 4, 10 - 8 + 15, 17
+Level 4, 6 * 7 - 12, 30
+Level 4, 54 / 9 + 8, 14
+Level 4, 20 + 18 - 7, 31
+Level 4, 8 * 3 - 5, 19
+Level 4, 36 / 6 + 7, 13
+Level 4, 12 + 9 - 15, 6
+Level 4, 9 * 4 + 3, 39
+Level 4, 48 / 8 - 5, 1
